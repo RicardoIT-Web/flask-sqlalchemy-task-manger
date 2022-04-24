@@ -2,7 +2,7 @@
 
 Welcome to my Flask / SQLalchemy app which is a simple to-do list.
 
-Click [here](https://rp-django-todo-app.herokuapp.com/) to view deployed app.
+Click [here](https://taskmanager-fl4sk-sqlalchemy.herokuapp.com/) to view deployed app.
 
 This app allows Users to create new tasks, edit existing tasks and delete or strike-through completed tasks using either the toggle button option of by clicking on edit and selecting done.
 
